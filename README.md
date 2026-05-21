@@ -118,5 +118,5 @@ Auto-Tagging-Support-Tickets-LLM/
 ## 👨‍💻 Author
 
 **Your Name**
-- 🌐 GitHub: [@Dev-MussabAMasood](https://github.com/Dev-MussabMasood)
+- 🌐 GitHub: [@Dev-MussabMasood](https://github.com/Dev-MussabMasood)
 - 💼 LinkedIn: [Mussab Masood](https://www.linkedin.com/in/mussab-masood-600109287/)
